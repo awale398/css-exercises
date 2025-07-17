@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.pink-something{
+    background-color: rgba(239, 105, 33, 0.991);
+    color: black;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#second{
+    background-color: white;
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cooler{
+    background-color: rgba(239, 105, 33, 0.991);
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#fourth{
+    background-color: rgb(106, 231, 106);
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.last-class{
+    background-color: rgba(239, 105, 33, 0.991);
+    color: black;
+    font-size: 20px;
+    margin-top: 20px;
+}
